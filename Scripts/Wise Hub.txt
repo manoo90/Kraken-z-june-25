@@ -1,0 +1,14 @@
+--[[ 1) Blade Throwing Simulator
+2) Titan God Simulator
+3) Saber Simulator
+4) Blade Simulator
+5) Fitness Simulator
+6) Texting Simulator
+7) Egg Clicker
+8) Lumberjack Legends
+9) Lava Run
+10) Phantom Forces
+11) Sound Space (V to toggle off/on)
+12) Giant Survival! ]]
+
+loadstring(game:HttpGet(("https://pastebin.com/raw/3m0agkEg"), true))()
