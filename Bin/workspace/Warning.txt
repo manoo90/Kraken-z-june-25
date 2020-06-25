@@ -1,0 +1,3 @@
+removed or altering keybypass1.txt
+and keybypass2.txt may break the 
+key bypass or even break kraken.

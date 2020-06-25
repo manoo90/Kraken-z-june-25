@@ -1,0 +1,5 @@
+{
+bypass-key: "WU5912"
+request: krnl.rocks/api/keypage.php
+sql: inject(bypass-key);
+}

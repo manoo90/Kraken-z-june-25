@@ -1,0 +1,1 @@
+{"Visuals Color":{"B":249.137932956218719482421875,"G":0,"R":233.806302845478057861328125},"Aim Part":"Head","ESP":true,"Tracers":true,"Show FOV":true,"Team Check":true,"Silent Aim":true,"Aim Key":"MouseButton2","Aimbot":true,"Wallbang":true,"Smoothness":"5","FOV Radius":"198"}
